@@ -1,3 +1,3 @@
-# valiseesti
+# Väliseesti ajalehed
 
-digihuma projekt
+Digihuma projekt
